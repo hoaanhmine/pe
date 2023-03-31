@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mario.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Mario Alt DOWN NOTE instancia 10000" x="0" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt DOWN NOTE instancia 10001" x="0" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt DOWN NOTE instancia 10002" x="85" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt DOWN NOTE instancia 10003" x="85" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt DOWN NOTE instancia 10004" x="85" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt DOWN NOTE instancia 10005" x="85" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt DOWN NOTE instancia 10006" x="85" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt DOWN NOTE instancia 10007" x="85" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt DOWN NOTE instancia 10008" x="85" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt DOWN NOTE instancia 10009" x="85" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt DOWN NOTE instancia 10010" x="85" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt DOWN NOTE instancia 10011" x="85" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt DOWN NOTE instancia 10012" x="85" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt DOWN NOTE instancia 10013" x="85" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt DOWN NOTE instancia 10014" x="85" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt Idle instancia 10000" x="170" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt Idle instancia 10001" x="170" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt Idle instancia 10002" x="255" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt Idle instancia 10003" x="255" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt Idle instancia 10004" x="340" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt Idle instancia 10005" x="340" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt Idle instancia 10006" x="425" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt Idle instancia 10007" x="425" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt Idle instancia 10008" x="510" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt Idle instancia 10009" x="510" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt Idle instancia 10010" x="510" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt Idle instancia 10011" x="170" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt Idle instancia 10012" x="170" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt Idle instancia 10013" x="170" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt Idle instancia 10014" x="170" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt LEFT NOTE instancia 10000" x="595" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt LEFT NOTE instancia 10001" x="595" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt LEFT NOTE instancia 10002" x="680" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt LEFT NOTE instancia 10003" x="680" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt LEFT NOTE instancia 10004" x="680" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt LEFT NOTE instancia 10005" x="680" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt LEFT NOTE instancia 10006" x="680" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt LEFT NOTE instancia 10007" x="680" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt LEFT NOTE instancia 10008" x="680" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt LEFT NOTE instancia 10009" x="680" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt LEFT NOTE instancia 10010" x="680" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt LEFT NOTE instancia 10011" x="680" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt LEFT NOTE instancia 10012" x="680" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt LEFT NOTE instancia 10013" x="680" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt LEFT NOTE instancia 10014" x="680" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt RIGHT NOTE instancia 10000" x="765" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt RIGHT NOTE instancia 10001" x="765" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt RIGHT NOTE instancia 10002" x="850" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt RIGHT NOTE instancia 10003" x="850" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt RIGHT NOTE instancia 10004" x="850" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt RIGHT NOTE instancia 10005" x="850" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt RIGHT NOTE instancia 10006" x="850" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt RIGHT NOTE instancia 10007" x="850" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt RIGHT NOTE instancia 10008" x="850" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt RIGHT NOTE instancia 10009" x="850" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt RIGHT NOTE instancia 10010" x="850" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt RIGHT NOTE instancia 10011" x="850" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt RIGHT NOTE instancia 10012" x="850" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt RIGHT NOTE instancia 10013" x="850" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt RIGHT NOTE instancia 10014" x="850" y="0" width="84" height="101"/>
+	<SubTexture name="Mario Alt UP NOTE instancia 10000" x="0" y="102" width="84" height="101"/>
+	<SubTexture name="Mario Alt UP NOTE instancia 10001" x="0" y="102" width="84" height="101"/>
+	<SubTexture name="Mario Alt UP NOTE instancia 10002" x="85" y="102" width="84" height="101"/>
+	<SubTexture name="Mario Alt UP NOTE instancia 10003" x="85" y="102" width="84" height="101"/>
+	<SubTexture name="Mario Alt UP NOTE instancia 10004" x="85" y="102" width="84" height="101"/>
+	<SubTexture name="Mario Alt UP NOTE instancia 10005" x="85" y="102" width="84" height="101"/>
+	<SubTexture name="Mario Alt UP NOTE instancia 10006" x="85" y="102" width="84" height="101"/>
+	<SubTexture name="Mario Alt UP NOTE instancia 10007" x="85" y="102" width="84" height="101"/>
+	<SubTexture name="Mario Alt UP NOTE instancia 10008" x="85" y="102" width="84" height="101"/>
+	<SubTexture name="Mario Alt UP NOTE instancia 10009" x="85" y="102" width="84" height="101"/>
+	<SubTexture name="Mario Alt UP NOTE instancia 10010" x="85" y="102" width="84" height="101"/>
+	<SubTexture name="Mario Alt UP NOTE instancia 10011" x="85" y="102" width="84" height="101"/>
+	<SubTexture name="Mario Alt UP NOTE instancia 10012" x="85" y="102" width="84" height="101"/>
+	<SubTexture name="Mario Alt UP NOTE instancia 10013" x="85" y="102" width="84" height="101"/>
+	<SubTexture name="Mario Alt UP NOTE instancia 10014" x="85" y="102" width="84" height="101"/>
+
+	<SubTexture name="Mario DOWN NOTE instancia 10000" x="170" y="102" width="84" height="101"/>
+	<SubTexture name="Mario DOWN NOTE instancia 10001" x="170" y="102" width="84" height="101"/>
+	<SubTexture name="Mario DOWN NOTE instancia 10002" x="255" y="102" width="84" height="101"/>
+	<SubTexture name="Mario DOWN NOTE instancia 10003" x="255" y="102" width="84" height="101"/>
+	<SubTexture name="Mario DOWN NOTE instancia 10004" x="255" y="102" width="84" height="101"/>
+	<SubTexture name="Mario DOWN NOTE instancia 10005" x="255" y="102" width="84" height="101"/>
+	<SubTexture name="Mario DOWN NOTE instancia 10006" x="255" y="102" width="84" height="101"/>
+	<SubTexture name="Mario DOWN NOTE instancia 10007" x="255" y="102" width="84" height="101"/>
+	<SubTexture name="Mario DOWN NOTE instancia 10008" x="255" y="102" width="84" height="101"/>
+	<SubTexture name="Mario DOWN NOTE instancia 10009" x="255" y="102" width="84" height="101"/>
+	<SubTexture name="Mario DOWN NOTE instancia 10010" x="255" y="102" width="84" height="101"/>
+	<SubTexture name="Mario DOWN NOTE instancia 10011" x="255" y="102" width="84" height="101"/>
+	<SubTexture name="Mario DOWN NOTE instancia 10012" x="255" y="102" width="84" height="101"/>
+	<SubTexture name="Mario DOWN NOTE instancia 10013" x="255" y="102" width="84" height="101"/>
+	<SubTexture name="Mario DOWN NOTE instancia 10014" x="255" y="102" width="84" height="101"/>
+
+	<SubTexture name="Mario LEFT NOTE instancia 10000" x="340" y="102" width="84" height="101"/>
+	<SubTexture name="Mario LEFT NOTE instancia 10001" x="340" y="102" width="84" height="101"/>
+	<SubTexture name="Mario LEFT NOTE instancia 10002" x="425" y="102" width="84" height="101"/>
+	<SubTexture name="Mario LEFT NOTE instancia 10003" x="425" y="102" width="84" height="101"/>
+	<SubTexture name="Mario LEFT NOTE instancia 10004" x="425" y="102" width="84" height="101"/>
+	<SubTexture name="Mario LEFT NOTE instancia 10005" x="425" y="102" width="84" height="101"/>
+	<SubTexture name="Mario LEFT NOTE instancia 10006" x="425" y="102" width="84" height="101"/>
+	<SubTexture name="Mario LEFT NOTE instancia 10007" x="425" y="102" width="84" height="101"/>
+	<SubTexture name="Mario LEFT NOTE instancia 10008" x="425" y="102" width="84" height="101"/>
+	<SubTexture name="Mario LEFT NOTE instancia 10009" x="425" y="102" width="84" height="101"/>
+	<SubTexture name="Mario LEFT NOTE instancia 10010" x="425" y="102" width="84" height="101"/>
+	<SubTexture name="Mario LEFT NOTE instancia 10011" x="425" y="102" width="84" height="101"/>
+	<SubTexture name="Mario LEFT NOTE instancia 10012" x="425" y="102" width="84" height="101"/>
+	<SubTexture name="Mario LEFT NOTE instancia 10013" x="425" y="102" width="84" height="101"/>
+	<SubTexture name="Mario LEFT NOTE instancia 10014" x="425" y="102" width="84" height="101"/>
+	<SubTexture name="Mario RIGHT NOTE instancia 10000" x="510" y="102" width="84" height="101"/>
+	<SubTexture name="Mario RIGHT NOTE instancia 10001" x="510" y="102" width="84" height="101"/>
+	<SubTexture name="Mario RIGHT NOTE instancia 10002" x="595" y="102" width="84" height="101"/>
+	<SubTexture name="Mario RIGHT NOTE instancia 10003" x="595" y="102" width="84" height="101"/>
+	<SubTexture name="Mario RIGHT NOTE instancia 10004" x="595" y="102" width="84" height="101"/>
+	<SubTexture name="Mario RIGHT NOTE instancia 10005" x="595" y="102" width="84" height="101"/>
+	<SubTexture name="Mario RIGHT NOTE instancia 10006" x="595" y="102" width="84" height="101"/>
+	<SubTexture name="Mario RIGHT NOTE instancia 10007" x="595" y="102" width="84" height="101"/>
+	<SubTexture name="Mario RIGHT NOTE instancia 10008" x="595" y="102" width="84" height="101"/>
+	<SubTexture name="Mario RIGHT NOTE instancia 10009" x="595" y="102" width="84" height="101"/>
+	<SubTexture name="Mario RIGHT NOTE instancia 10010" x="595" y="102" width="84" height="101"/>
+	<SubTexture name="Mario RIGHT NOTE instancia 10011" x="595" y="102" width="84" height="101"/>
+	<SubTexture name="Mario RIGHT NOTE instancia 10012" x="595" y="102" width="84" height="101"/>
+	<SubTexture name="Mario RIGHT NOTE instancia 10013" x="595" y="102" width="84" height="101"/>
+	<SubTexture name="Mario RIGHT NOTE instancia 10014" x="595" y="102" width="84" height="101"/>
+
+	<SubTexture name="Mario UP NOTE instancia 10000" x="680" y="102" width="84" height="101"/>
+	<SubTexture name="Mario UP NOTE instancia 10001" x="680" y="102" width="84" height="101"/>
+	<SubTexture name="Mario UP NOTE instancia 10002" x="765" y="102" width="84" height="101"/>
+	<SubTexture name="Mario UP NOTE instancia 10003" x="765" y="102" width="84" height="101"/>
+	<SubTexture name="Mario UP NOTE instancia 10004" x="765" y="102" width="84" height="101"/>
+	<SubTexture name="Mario UP NOTE instancia 10005" x="765" y="102" width="84" height="101"/>
+	<SubTexture name="Mario UP NOTE instancia 10006" x="765" y="102" width="84" height="101"/>
+	<SubTexture name="Mario UP NOTE instancia 10007" x="765" y="102" width="84" height="101"/>
+	<SubTexture name="Mario UP NOTE instancia 10008" x="765" y="102" width="84" height="101"/>
+	<SubTexture name="Mario UP NOTE instancia 10009" x="765" y="102" width="84" height="101"/>
+	<SubTexture name="Mario UP NOTE instancia 10010" x="765" y="102" width="84" height="101"/>
+	<SubTexture name="Mario UP NOTE instancia 10011" x="765" y="102" width="84" height="101"/>
+	<SubTexture name="Mario UP NOTE instancia 10012" x="765" y="102" width="84" height="101"/>
+	<SubTexture name="Mario UP NOTE instancia 10013" x="765" y="102" width="84" height="101"/>
+	<SubTexture name="Mario UP NOTE instancia 10014" x="765" y="102" width="84" height="101"/>
+
+	<SubTexture name="Mario Idle instancia 10000" x="850" y="102" width="84" height="101"/>
+	<SubTexture name="Mario Idle instancia 10001" x="850" y="102" width="84" height="101"/>
+	<SubTexture name="Mario Idle instancia 10002" x="0" y="204" width="84" height="101"/>
+	<SubTexture name="Mario Idle instancia 10003" x="0" y="204" width="84" height="101"/>
+	<SubTexture name="Mario Idle instancia 10004" x="85" y="204" width="84" height="101"/>
+	<SubTexture name="Mario Idle instancia 10005" x="85" y="204" width="84" height="101"/>
+	<SubTexture name="Mario Idle instancia 10006" x="170" y="204" width="84" height="101"/>
+	<SubTexture name="Mario Idle instancia 10007" x="170" y="204" width="84" height="101"/>
+	<SubTexture name="Mario Idle instancia 10008" x="255" y="204" width="84" height="101"/>
+	<SubTexture name="Mario Idle instancia 10009" x="255" y="204" width="84" height="101"/>
+	<SubTexture name="Mario Idle instancia 10010" x="255" y="204" width="84" height="101"/>
+	<SubTexture name="Mario Idle instancia 10011" x="340" y="204" width="84" height="101"/>
+	<SubTexture name="Mario Idle instancia 10012" x="340" y="204" width="84" height="101"/>
+	<SubTexture name="Mario Idle instancia 10013" x="340" y="204" width="84" height="101"/>
+	<SubTexture name="Mario Idle instancia 10014" x="340" y="204" width="84" height="101"/>
+	<SubTexture name="Mario Idle instancia 10015" x="850" y="102" width="84" height="101"/>
+	<SubTexture name="Mario Idle instancia 10016" x="850" y="102" width="84" height="101"/>
+	<SubTexture name="Mario Idle instancia 10017" x="0" y="204" width="84" height="101"/>
+	<SubTexture name="Mario Idle instancia 10018" x="0" y="204" width="84" height="101"/>
+	<SubTexture name="Mario Idle instancia 10019" x="85" y="204" width="84" height="101"/>
+	<SubTexture name="Mario Idle instancia 10020" x="85" y="204" width="84" height="101"/>
+	<SubTexture name="Mario Idle instancia 10021" x="170" y="204" width="84" height="101"/>
+	<SubTexture name="Mario Idle instancia 10022" x="170" y="204" width="84" height="101"/>
+	<SubTexture name="Mario Idle instancia 10023" x="255" y="204" width="84" height="101"/>
+	<SubTexture name="Mario Idle instancia 10024" x="255" y="204" width="84" height="101"/>
+	<SubTexture name="Mario Idle instancia 10025" x="255" y="204" width="84" height="101"/>
+	<SubTexture name="Mario Idle instancia 10026" x="340" y="204" width="84" height="101"/>
+	<SubTexture name="Mario Idle instancia 10027" x="340" y="204" width="84" height="101"/>
+	<SubTexture name="Mario Idle instancia 10028" x="340" y="204" width="84" height="101"/>
+	<SubTexture name="Mario Idle instancia 10029" x="340" y="204" width="84" height="101"/>
+	<SubTexture name="Mario Idle instancia 10030" x="425" y="204" width="84" height="101"/>
+	<SubTexture name="Mario Idle instancia 10031" x="425" y="204" width="84" height="101"/>
+	<SubTexture name="Mario Idle instancia 10032" x="510" y="204" width="84" height="101"/>
+	<SubTexture name="Mario Idle instancia 10033" x="510" y="204" width="84" height="101"/>
+	<SubTexture name="Mario Idle instancia 10034" x="0" y="204" width="84" height="101"/>
+
+</TextureAtlas>

@@ -1,0 +1,281 @@
+{
+	"song": {
+		"events": [
+			[
+				19072.8476821192,
+				[
+					[
+						"Change Character",
+						"1",
+						"luigi"
+					],
+					[
+						"Change Character",
+						"2",
+						"monika-pixel"
+					]
+				]
+			],
+			[
+				22450.3311258278,
+				[
+					[
+						"Change Character",
+						"0",
+						"edd-pixel"
+					]
+				]
+			],
+			[
+				25827.8145695364,
+				[
+					[
+						"Change Character",
+						"0",
+						"mickey-pixel"
+					]
+				]
+			],
+			[
+				28807.9470198675,
+				[
+					[
+						"Change Character",
+						"1",
+						"mariogb"
+					]
+				]
+			],
+			[
+				31986.7549668874,
+				[
+					[
+						"Change Character",
+						"1",
+						"missingno"
+					]
+				]
+			],
+			[
+				35165.5629139073,
+				[
+					[
+						"Change Character",
+						"0",
+						"sans-pixel"
+					]
+				]
+			],
+			[
+				38344.3708609271,
+				[
+					[
+						"Change Character",
+						"0",
+						"bendy-pixel"
+					]
+				]
+			],
+			[
+				41523.178807947,
+				[
+					[
+						"Change Character",
+						"1",
+						"whitty-pixel"
+					]
+				]
+			],
+			[
+				46291.3907284768,
+				[
+					[
+						"Change Character",
+						"1",
+						"hex-pixel"
+					]
+				]
+			],
+			[
+				49470.1986754967,
+				[
+					[
+						"Change Character",
+						"0",
+						"mario-pixel"
+					]
+				]
+			],
+			[
+				52450.3311258278,
+				[
+					[
+						"Change Character",
+						"1",
+						"majin-pixel"
+					],
+					[
+						"Change Character",
+						"0",
+						"PixelMario-EXE"
+					],
+					[
+						"Flash",
+						"000080",
+						""
+					]
+				]
+			],
+			[
+				57615.8940397351,
+				[
+					[
+						"Change Character",
+						"1",
+						"dorklysonic"
+					]
+				]
+			],
+			[
+				60596.0264900662,
+				[
+					[
+						"Change Character",
+						"0",
+						"soft-pixel"
+					]
+				]
+			],
+			[
+				63973.5099337749,
+				[
+					[
+						"Change Character",
+						"0",
+						"carol-pixel"
+					]
+				]
+			],
+			[
+				66953.642384106,
+				[
+					[
+						"Change Character",
+						"1",
+						"tricky-pixel"
+					]
+				]
+			],
+			[
+				70132.4503311259,
+				[
+					[
+						"Change Character",
+						"1",
+						"mx"
+					]
+				]
+			],
+			[
+				73311.2582781457,
+				[
+					[
+						"Change Character",
+						"0",
+						"pico-pixel"
+					]
+				]
+			],
+			[
+				76490.0662251656,
+				[
+					[
+						"Change Character",
+						"0",
+						"miku-pixel"
+					]
+				]
+			],
+			[
+				79668.8741721855,
+				[
+					[
+						"Change Character",
+						"1",
+						"dorklytord"
+					]
+				]
+			],
+			[
+				81854.3046357616,
+				[
+					[
+						"Flash",
+						"F5A9F2",
+						""
+					],
+					[
+						"Hey!",
+						"BF",
+						"1.0s"
+					]
+				]
+			],
+			[
+				82847.6821192053,
+				[
+					[
+						"Change Character",
+						"1",
+						"sky-pixel"
+					]
+				]
+			],
+			[
+				86026.4900662252,
+				[
+					[
+						"Change Character",
+						"0",
+						"dad-pixel"
+					]
+				]
+			],
+			[
+				89006.6225165564,
+				[
+					[
+						"Change Character",
+						"1",
+						"Gf-Pixel-Sing"
+					],
+					[
+						"Change Character",
+						"0",
+						"kids-pixel"
+					]
+				]
+			],
+			[
+				95562.9139072848,
+				[
+					[
+						"Change Character",
+						"0",
+						"cloudPixel"
+					]
+				]
+			],
+			[
+				95761.5894039736,
+				[
+					[
+						"Change Character",
+						"1",
+						"senpai"
+					]
+				]
+			]
+		]
+	}
+}

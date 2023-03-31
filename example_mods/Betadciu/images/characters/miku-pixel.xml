@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MIKUPixel.png">
+	<!-- Created with Adobe Animate version 20.0.0.111500 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+
+	<SubTexture name="MIKU IDLE instance 10000" x="0" y="0" width="100" height="115"/>
+	<SubTexture name="MIKU IDLE instance 10001" x="0" y="0" width="100" height="115"/>
+	<SubTexture name="MIKU IDLE instance 10002" x="102" y="0" width="100" height="115"/>
+	<SubTexture name="MIKU IDLE instance 10003" x="102" y="0" width="100" height="115"/>
+	<SubTexture name="MIKU IDLE instance 10004" x="102" y="0" width="100" height="115"/>
+	<SubTexture name="MIKU IDLE instance 10005" x="204" y="0" width="100" height="115"/>
+	<SubTexture name="MIKU IDLE instance 10006" x="204" y="0" width="100" height="115"/>
+	<SubTexture name="MIKU IDLE instance 10007" x="204" y="0" width="100" height="115"/>
+	<SubTexture name="MIKU IDLE instance 10008" x="306" y="0" width="100" height="115"/>
+	<SubTexture name="MIKU IDLE instance 10009" x="306" y="0" width="100" height="115"/>
+	<SubTexture name="MIKU IDLE instance 10010" x="306" y="0" width="100" height="115"/>
+	<SubTexture name="MIKU IDLE instance 10011" x="408" y="0" width="100" height="115"/>
+	<SubTexture name="MIKU IDLE instance 10012" x="408" y="0" width="100" height="115"/>
+	<SubTexture name="MIKU IDLE instance 10013" x="408" y="0" width="100" height="115"/>
+	<SubTexture name="MIKU IDLE instance 10014" x="102" y="0" width="100" height="115"/>
+
+	<SubTexture name="MIKU Yeah 10000" x="510" y="0" width="100" height="115"/>
+	<SubTexture name="MIKU Yeah 10001" x="510" y="0" width="100" height="115"/>
+	<SubTexture name="MIKU Yeah 10002" x="510" y="0" width="100" height="115"/>
+	<SubTexture name="MIKU Yeah 10003" x="510" y="0" width="100" height="115"/>
+	<SubTexture name="MIKU Yeah 10004" x="612" y="0" width="100" height="115"/>
+	<SubTexture name="MIKU Yeah 10005" x="612" y="0" width="100" height="115"/>
+	<SubTexture name="MIKU Yeah 10006" x="612" y="0" width="100" height="115"/>
+	<SubTexture name="MIKU Yeah 10007" x="612" y="0" width="100" height="115"/>
+	<SubTexture name="MIKU Yeah 10008" x="612" y="0" width="100" height="115"/>
+	<SubTexture name="MIKU Yeah 10009" x="612" y="0" width="100" height="115"/>
+	<SubTexture name="MIKU Yeah 10010" x="612" y="0" width="100" height="115"/>
+	<SubTexture name="MIKU Yeah 10011" x="612" y="0" width="100" height="115"/>
+	<SubTexture name="MIKU Yeah 10012" x="714" y="0" width="100" height="115"/>
+	<SubTexture name="MIKU Yeah 10013" x="714" y="0" width="100" height="115"/>
+	<SubTexture name="MIKU Yeah 10014" x="714" y="0" width="100" height="115"/>
+	<SubTexture name="MIKU Yeah 10015" x="612" y="0" width="100" height="115"/>
+	<SubTexture name="MIKU Yeah 10016" x="612" y="0" width="100" height="115"/>
+	<SubTexture name="MIKU Yeah 10017" x="612" y="0" width="100" height="115"/>
+	<SubTexture name="MIKU Yeah 10018" x="714" y="0" width="100" height="115"/>
+	<SubTexture name="MIKU Yeah 10019" x="714" y="0" width="100" height="115"/>
+	<SubTexture name="MIKU Yeah 10020" x="714" y="0" width="100" height="115"/>
+	<SubTexture name="MIKU Yeah 10021" x="714" y="0" width="100" height="115"/>
+	<SubTexture name="MIKU Yeah 10022" x="714" y="0" width="100" height="115"/>
+	<SubTexture name="MIKU Yeah 10023" x="714" y="0" width="100" height="115"/>
+
+	<SubTexture name="MIKU DOWN NOTE instance 10000" x="0" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU DOWN NOTE instance 10001" x="0" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU DOWN NOTE instance 10002" x="0" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU DOWN NOTE instance 10003" x="102" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU DOWN NOTE instance 10004" x="102" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU DOWN NOTE instance 10005" x="102" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU DOWN NOTE instance 10006" x="102" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU DOWN NOTE instance 10007" x="102" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU DOWN NOTE instance 10008" x="102" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU DOWN NOTE instance 10009" x="102" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU DOWN NOTE instance 10010" x="102" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU DOWN NOTE instance 10011" x="102" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU DOWN NOTE instance 10012" x="102" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU DOWN MISS instance 10000" x="0" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU DOWN MISS instance 10001" x="204" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU DOWN MISS instance 10002" x="204" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU DOWN MISS instance 10003" x="204" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU DOWN MISS instance 10004" x="306" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU DOWN MISS instance 10005" x="306" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU DOWN MISS instance 10006" x="306" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU DOWN MISS instance 10007" x="306" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU DOWN MISS instance 10008" x="306" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU DOWN MISS instance 10009" x="306" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU DOWN MISS instance 10010" x="306" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU DOWN MISS instance 10011" x="306" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU DOWN MISS instance 10012" x="306" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU DOWN MISS instance 10013" x="306" y="117" width="100" height="115"/>
+
+	<SubTexture name="MIKU LEFT NOTE instance 10000" x="408" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU LEFT NOTE instance 10001" x="408" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU LEFT NOTE instance 10002" x="510" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU LEFT NOTE instance 10003" x="510" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU LEFT NOTE instance 10004" x="510" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU LEFT NOTE instance 10005" x="510" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU LEFT NOTE instance 10006" x="510" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU LEFT NOTE instance 10007" x="510" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU LEFT NOTE instance 10008" x="510" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU LEFT NOTE instance 10009" x="510" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU LEFT NOTE instance 10010" x="510" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU LEFT NOTE instance 10011" x="510" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU LEFT NOTE instance 10012" x="510" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU LEFT MISS instance 10000" x="408" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU LEFT MISS instance 10001" x="612" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU LEFT MISS instance 10002" x="612" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU LEFT MISS instance 10003" x="612" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU LEFT MISS instance 10004" x="714" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU LEFT MISS instance 10005" x="714" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU LEFT MISS instance 10006" x="714" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU LEFT MISS instance 10007" x="714" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU LEFT MISS instance 10008" x="714" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU LEFT MISS instance 10009" x="714" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU LEFT MISS instance 10010" x="714" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU LEFT MISS instance 10011" x="714" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU LEFT MISS instance 10012" x="714" y="117" width="100" height="115"/>
+	<SubTexture name="MIKU LEFT MISS instance 10013" x="714" y="117" width="100" height="115"/>
+
+	<SubTexture name="MIKU RIGHT NOTE instance 10000" x="0" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU RIGHT NOTE instance 10001" x="0" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU RIGHT NOTE instance 10002" x="0" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU RIGHT NOTE instance 10003" x="0" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU RIGHT NOTE instance 10004" x="102" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU RIGHT NOTE instance 10005" x="102" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU RIGHT NOTE instance 10006" x="102" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU RIGHT NOTE instance 10007" x="102" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU RIGHT NOTE instance 10008" x="102" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU RIGHT NOTE instance 10009" x="102" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU RIGHT NOTE instance 10010" x="102" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU RIGHT NOTE instance 10011" x="102" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU RIGHT NOTE instance 10012" x="102" y="234" width="100" height="115"/>
+
+	<SubTexture name="MIKU RIGHT MISS instance 10000" x="0" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU RIGHT MISS instance 10001" x="204" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU RIGHT MISS instance 10002" x="204" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU RIGHT MISS instance 10003" x="204" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU RIGHT MISS instance 10004" x="306" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU RIGHT MISS instance 10005" x="306" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU RIGHT MISS instance 10006" x="306" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU RIGHT MISS instance 10007" x="306" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU RIGHT MISS instance 10008" x="306" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU RIGHT MISS instance 10009" x="306" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU RIGHT MISS instance 10010" x="306" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU RIGHT MISS instance 10011" x="306" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU RIGHT MISS instance 10012" x="306" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU RIGHT MISS instance 10013" x="306" y="234" width="100" height="115"/>
+
+	<SubTexture name="MIKU UP NOTE instance 10000" x="408" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU UP NOTE instance 10001" x="408" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU UP NOTE instance 10002" x="408" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU UP NOTE instance 10003" x="510" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU UP NOTE instance 10004" x="510" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU UP NOTE instance 10005" x="510" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU UP NOTE instance 10006" x="510" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU UP NOTE instance 10007" x="510" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU UP NOTE instance 10008" x="510" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU UP NOTE instance 10009" x="510" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU UP NOTE instance 10010" x="510" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU UP NOTE instance 10011" x="510" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU UP NOTE instance 10012" x="510" y="234" width="100" height="115"/>
+
+	<SubTexture name="MIKU UP MISS instance 10000" x="408" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU UP MISS instance 10001" x="612" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU UP MISS instance 10002" x="612" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU UP MISS instance 10003" x="714" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU UP MISS instance 10004" x="714" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU UP MISS instance 10005" x="714" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU UP MISS instance 10006" x="714" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU UP MISS instance 10007" x="714" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU UP MISS instance 10008" x="714" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU UP MISS instance 10009" x="714" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU UP MISS instance 10010" x="714" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU UP MISS instance 10011" x="714" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU UP MISS instance 10012" x="714" y="234" width="100" height="115"/>
+	<SubTexture name="MIKU UP MISS instance 10013" x="714" y="234" width="100" height="115"/>
+
+	<SubTexture name="MIKU scared 10000" x="0" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU scared 10001" x="0" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU scared 10002" x="0" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU scared 10003" x="0" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU scared 10004" x="102" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU scared 10005" x="102" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU scared 10006" x="102" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU scared 10007" x="102" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU scared 10008" x="102" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU scared 10009" x="102" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU scared 10010" x="102" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU scared 10011" x="204" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU scared 10012" x="204" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU scared 10013" x="204" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU scared 10014" x="204" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU scared 10015" x="102" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU scared 10016" x="102" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU scared 10017" x="204" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU scared 10018" x="204" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU scared 10019" x="204" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU scared 10020" x="204" y="351" width="100" height="115"/>
+
+	<SubTexture name="MIKU ALT DOWN NOTE 10000" x="306" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU ALT DOWN NOTE 10001" x="306" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU ALT DOWN NOTE 10002" x="306" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU ALT DOWN NOTE 10003" x="408" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU ALT DOWN NOTE 10004" x="408" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU ALT DOWN NOTE 10005" x="408" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU ALT DOWN NOTE 10006" x="408" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU ALT DOWN NOTE 10007" x="408" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU ALT DOWN NOTE 10008" x="408" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU ALT DOWN NOTE 10009" x="408" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU ALT DOWN NOTE 10010" x="408" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU ALT DOWN NOTE 10011" x="408" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU ALT DOWN NOTE 10012" x="408" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU ALT LEFT NOTE 10000" x="510" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU ALT LEFT NOTE 10001" x="510" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU ALT LEFT NOTE 10002" x="510" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU ALT LEFT NOTE 10003" x="612" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU ALT LEFT NOTE 10004" x="612" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU ALT LEFT NOTE 10005" x="612" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU ALT LEFT NOTE 10006" x="612" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU ALT LEFT NOTE 10007" x="612" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU ALT LEFT NOTE 10008" x="612" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU ALT LEFT NOTE 10009" x="612" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU ALT LEFT NOTE 10010" x="612" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU ALT LEFT NOTE 10011" x="612" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU ALT LEFT NOTE 10012" x="612" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU ALT RIGHT NOTE 10000" x="714" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU ALT RIGHT NOTE 10001" x="714" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU ALT RIGHT NOTE 10002" x="714" y="351" width="100" height="115"/>
+	<SubTexture name="MIKU ALT RIGHT NOTE 10003" x="0" y="468" width="100" height="115"/>
+	<SubTexture name="MIKU ALT RIGHT NOTE 10004" x="0" y="468" width="100" height="115"/>
+	<SubTexture name="MIKU ALT RIGHT NOTE 10005" x="0" y="468" width="100" height="115"/>
+	<SubTexture name="MIKU ALT RIGHT NOTE 10006" x="0" y="468" width="100" height="115"/>
+	<SubTexture name="MIKU ALT RIGHT NOTE 10007" x="0" y="468" width="100" height="115"/>
+	<SubTexture name="MIKU ALT RIGHT NOTE 10008" x="0" y="468" width="100" height="115"/>
+	<SubTexture name="MIKU ALT RIGHT NOTE 10009" x="0" y="468" width="100" height="115"/>
+	<SubTexture name="MIKU ALT RIGHT NOTE 10010" x="0" y="468" width="100" height="115"/>
+	<SubTexture name="MIKU ALT RIGHT NOTE 10011" x="0" y="468" width="100" height="115"/>
+	<SubTexture name="MIKU ALT RIGHT NOTE 10012" x="0" y="468" width="100" height="115"/>
+	<SubTexture name="MIKU ALT UP NOTE 10000" x="102" y="468" width="100" height="115"/>
+	<SubTexture name="MIKU ALT UP NOTE 10001" x="102" y="468" width="100" height="115"/>
+	<SubTexture name="MIKU ALT UP NOTE 10002" x="102" y="468" width="100" height="115"/>
+	<SubTexture name="MIKU ALT UP NOTE 10003" x="204" y="468" width="100" height="115"/>
+	<SubTexture name="MIKU ALT UP NOTE 10004" x="204" y="468" width="100" height="115"/>
+	<SubTexture name="MIKU ALT UP NOTE 10005" x="204" y="468" width="100" height="115"/>
+	<SubTexture name="MIKU ALT UP NOTE 10006" x="204" y="468" width="100" height="115"/>
+	<SubTexture name="MIKU ALT UP NOTE 10007" x="204" y="468" width="100" height="115"/>
+	<SubTexture name="MIKU ALT UP NOTE 10008" x="204" y="468" width="100" height="115"/>
+	<SubTexture name="MIKU ALT UP NOTE 10009" x="204" y="468" width="100" height="115"/>
+	<SubTexture name="MIKU ALT UP NOTE 10010" x="204" y="468" width="100" height="115"/>
+	<SubTexture name="MIKU ALT UP NOTE 10011" x="204" y="468" width="100" height="115"/>
+	<SubTexture name="MIKU ALT UP NOTE 10012" x="204" y="468" width="100" height="115"/>
+
+</TextureAtlas>
+	<SubTexture name="MIKU EH NOTE 10000" x="306" y="585" width="100" height="115"/>

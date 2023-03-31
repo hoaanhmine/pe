@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="majin sonic pixel.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down_0" x="0" y="0" width="208" height="160"/>
+	<SubTexture name="down_1" x="208" y="0" width="208" height="160"/>
+	<SubTexture name="down_2" x="208" y="0" width="208" height="160"/>
+	<SubTexture name="down_3" x="208" y="0" width="208" height="160"/>
+	<SubTexture name="idle_0" x="416" y="160" width="208" height="160"/>
+	<SubTexture name="idle_1" x="624" y="160" width="208" height="160"/>
+	<SubTexture name="idle_2" x="0" y="320" width="208" height="160"/>
+	<SubTexture name="idle_3" x="208" y="320" width="208" height="160"/>
+	<SubTexture name="idle_4" x="416" y="320" width="208" height="160"/>
+	<SubTexture name="left_0" x="624" y="320" width="208" height="160"/>
+	<SubTexture name="left_1" x="0" y="480" width="208" height="160"/>
+	<SubTexture name="left_2" x="0" y="480" width="208" height="160"/>
+	<SubTexture name="left_3" x="0" y="480" width="208" height="160"/>
+	<SubTexture name="right_0" x="416" y="0" width="208" height="160"/>
+	<SubTexture name="right_1" x="624" y="0" width="208" height="160"/>
+	<SubTexture name="right_2" x="624" y="0" width="208" height="160"/>
+	<SubTexture name="right_3" x="624" y="0" width="208" height="160"/>
+	<SubTexture name="up_0" x="0" y="160" width="208" height="160"/>
+	<SubTexture name="up_1" x="208" y="160" width="208" height="160"/>
+	<SubTexture name="up_2" x="208" y="160" width="208" height="160"/>
+	<SubTexture name="up_3" x="208" y="160" width="208" height="160"/>
+</TextureAtlas>

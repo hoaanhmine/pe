@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Mario Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Mario UP NOTE"
+		},
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Mario DOWN NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Mario RIGHT NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Mario LEFT NOTE"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Mario-pixel-exe",
+	"position": [
+		110,
+		450
+	],
+	"healthicon": "NotMario",
+	"flip_x": false,
+	"healthbar_colors": [
+		146,
+		40,
+		63
+	],
+	"camera_position": [
+		250,
+		-230
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

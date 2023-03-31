@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "idle",
+			"indices": [],
+			"name": "MIKU IDLE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "MIKU RIGHT MISS"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "MIKU RIGHT NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "MIKU UP MISS"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "MIKU UP NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "MIKU LEFT MISS"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "MIKU DOWN NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "MIKU DOWN MISS"
+		},
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"loop": true,
+			"anim": "scared",
+			"fps": 22,
+			"name": "MIKU scared",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MIKU ALT UP NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MIKU ALT DOWN NOTE"
+		},
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"loop": false,
+			"anim": "hey",
+			"fps": 22,
+			"name": "MIKU Yeah",
+			"indices": []
+		},
+		{
+			"offsets": [
+				8,
+				0
+			],
+			"indices": [],
+			"fps": 22,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "MIKU ALT RIGHT NOTE"
+		},
+		{
+			"offsets": [
+				21,
+				0
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "MIKU ALT LEFT NOTE"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/miku-pixel",
+	"position": [
+		90,
+		380
+	],
+	"healthicon": "PixelMiku",
+	"flip_x": false,
+	"healthbar_colors": [
+		127,
+		226,
+		243
+	],
+	"camera_position": [
+		350,
+		-220
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dorkly_Tord.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Tord down0000" x="0" y="0" width="296" height="607"/>
+	<SubTexture name="Tord down0001" x="296" y="0" width="296" height="607"/>
+	<SubTexture name="Tord down0002" x="592" y="0" width="296" height="607"/>
+	<SubTexture name="Tord down0003" x="888" y="0" width="296" height="607"/>
+	<SubTexture name="Tord down0004" x="1184" y="0" width="296" height="607"/>
+	<SubTexture name="Tord idle0000" x="1480" y="0" width="330" height="630"/>
+	<SubTexture name="Tord idle0001" x="1810" y="0" width="330" height="630"/>
+	<SubTexture name="Tord idle0002" x="2140" y="0" width="330" height="630"/>
+	<SubTexture name="Tord idle0003" x="2470" y="0" width="330" height="630"/>
+	<SubTexture name="Tord idle0004" x="2800" y="0" width="330" height="630"/>
+	<SubTexture name="Tord idle0005" x="2800" y="0" width="330" height="630"/>
+	<SubTexture name="Tord idle0006" x="2800" y="0" width="330" height="630"/>
+	<SubTexture name="Tord idle0007" x="2800" y="0" width="330" height="630"/>
+	<SubTexture name="Tord idle0008" x="2800" y="0" width="330" height="630"/>
+	<SubTexture name="Tord idle0009" x="2800" y="0" width="330" height="630"/>
+	<SubTexture name="Tord left0000" x="3130" y="0" width="361" height="637"/>
+	<SubTexture name="Tord left0001" x="3491" y="0" width="361" height="637"/>
+	<SubTexture name="Tord left0002" x="0" y="637" width="361" height="637"/>
+	<SubTexture name="Tord left0003" x="361" y="637" width="361" height="637"/>
+	<SubTexture name="Tord left0004" x="722" y="637" width="361" height="637"/>
+	<SubTexture name="Tord left0005" x="722" y="637" width="361" height="637"/>
+	<SubTexture name="Tord left0006" x="722" y="637" width="361" height="637"/>
+	<SubTexture name="Tord left0007" x="722" y="637" width="361" height="637"/>
+	<SubTexture name="Tord left0008" x="722" y="637" width="361" height="637"/>
+	<SubTexture name="Tord left0009" x="722" y="637" width="361" height="637"/>
+	<SubTexture name="Tord right0000" x="1083" y="637" width="315" height="635"/>
+	<SubTexture name="Tord right0001" x="1398" y="637" width="315" height="635"/>
+	<SubTexture name="Tord right0002" x="1713" y="637" width="315" height="635"/>
+	<SubTexture name="Tord right0003" x="2028" y="637" width="315" height="635"/>
+	<SubTexture name="Tord right0004" x="2343" y="637" width="315" height="635"/>
+	<SubTexture name="Tord right0005" x="2343" y="637" width="315" height="635"/>
+	<SubTexture name="Tord right0006" x="2343" y="637" width="315" height="635"/>
+	<SubTexture name="Tord right0007" x="2343" y="637" width="315" height="635"/>
+	<SubTexture name="Tord right0008" x="2343" y="637" width="315" height="635"/>
+	<SubTexture name="Tord right0009" x="2343" y="637" width="315" height="635"/>
+	<SubTexture name="Tord up0000" x="2658" y="637" width="261" height="673"/>
+	<SubTexture name="Tord up0001" x="2919" y="637" width="261" height="673"/>
+	<SubTexture name="Tord up0002" x="3180" y="637" width="261" height="673"/>
+	<SubTexture name="Tord up0003" x="3441" y="637" width="261" height="673"/>
+	<SubTexture name="Tord up0004" x="3702" y="637" width="261" height="673"/>
+	<SubTexture name="Tord up0005" x="3702" y="637" width="261" height="673"/>
+	<SubTexture name="Tord up0006" x="3702" y="637" width="261" height="673"/>
+	<SubTexture name="Tord up0007" x="3702" y="637" width="261" height="673"/>
+	<SubTexture name="Tord up0008" x="3702" y="637" width="261" height="673"/>
+	<SubTexture name="Tord up0009" x="3702" y="637" width="261" height="673"/>
+</TextureAtlas>

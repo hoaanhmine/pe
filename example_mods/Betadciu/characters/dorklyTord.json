@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Tord idle"
+		},
+		{
+			"offsets": [
+				-5,
+				107
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Tord down"
+		},
+		{
+			"offsets": [
+				-27,
+				170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Tord up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				134
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Tord right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				135
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Tord left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/dorkly_Tord",
+	"position": [
+		10,
+		260
+	],
+	"healthicon": "tord",
+	"flip_x": false,
+	"healthbar_colors": [
+		217,
+		18,
+		76
+	],
+	"camera_position": [
+		0,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

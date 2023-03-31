@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 20,
+			"name": "Mario Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				5,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Mario UP NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Mario LEFT NOTE"
+		},
+		{
+			"offsets": [
+				5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Mario RIGHT NOTE"
+		},
+		{
+			"offsets": [
+				6,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Mario DOWN NOTE"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Mario Alt Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				5,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Mario Alt UP NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Mario Alt LEFT NOTE"
+		},
+		{
+			"offsets": [
+				10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Mario Alt RIGHT NOTE"
+		},
+		{
+			"offsets": [
+				7,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Mario Alt DOWN NOTE"
+		},
+		{
+			"offsets": [
+				5,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Mario UP MISS NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Mario LEFT MISS NOTE"
+		},
+		{
+			"offsets": [
+				20,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Mario RIGHT MISS NOTE"
+		},
+		{
+			"offsets": [
+				14,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Mario DOWN MISS NOTE"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Mario-playable",
+	"position": [
+		70,
+		440
+	],
+	"healthicon": "Mario-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		240,
+		66,
+		71
+	],
+	"camera_position": [
+		220,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

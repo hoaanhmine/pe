@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Happy_Mouse.png"><SubTexture name="Down0000" x="0" y="0" width="69" height="74" frameX="0" frameY="0" frameWidth="69" frameHeight="74" />
+<SubTexture name="Down000" x="69" y="0" width="69" height="74" frameX="0" frameY="0" frameWidth="69" frameHeight="74" />
+<SubTexture name="Idle0000" x="138" y="0" width="69" height="74" frameX="0" frameY="0" frameWidth="69" frameHeight="74" />
+<SubTexture name="Idle0001" x="207" y="0" width="69" height="74" frameX="0" frameY="0" frameWidth="69" frameHeight="74" />
+<SubTexture name="Idle0002" x="0" y="74" width="69" height="74" frameX="0" frameY="0" frameWidth="69" frameHeight="74" />
+<SubTexture name="Idle0003" x="69" y="74" width="69" height="74" frameX="0" frameY="0" frameWidth="69" frameHeight="74" />
+<SubTexture name="Idle0004" x="138" y="74" width="69" height="74" frameX="0" frameY="0" frameWidth="69" frameHeight="74" />
+<SubTexture name="Left0000" x="207" y="74" width="69" height="74" frameX="0" frameY="0" frameWidth="69" frameHeight="74" />
+<SubTexture name="Left0001" x="0" y="148" width="69" height="74" frameX="0" frameY="0" frameWidth="69" frameHeight="74" />
+<SubTexture name="Right0000" x="69" y="148" width="69" height="74" frameX="0" frameY="0" frameWidth="69" frameHeight="74" />
+<SubTexture name="Right0001" x="138" y="148" width="69" height="74" frameX="0" frameY="0" frameWidth="69" frameHeight="74" />
+<SubTexture name="Up0000" x="207" y="148" width="69" height="74" frameX="0" frameY="0" frameWidth="69" frameHeight="74" />
+<SubTexture name="Up0001" x="0" y="222" width="69" height="74" frameX="0" frameY="0" frameWidth="69" frameHeight="74" />
+</TextureAtlas>
